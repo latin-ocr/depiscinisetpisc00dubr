@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./depiscinisetpisc00dubr_0051.png"; bbox 0 0 1654 2881; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 300 83 1320 167">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 300 83 1320 167">
+     <span class='ocr_line' id='line_1_1' title="bbox 300 83 1320 167; baseline 0.011 -11"><span class='ocrx_word' id='word_1_1' title='bbox 300 83 418 157; x_wconf 86' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 495 89 956 164; x_wconf 78' lang='lat' dir='ltr'><strong>PISCINIS.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1054 93 1236 165; x_wconf 88' lang='lat' dir='ltr'><strong>LIB.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1266 95 1320 167; x_wconf 85' lang='grc' dir='ltr'>Π</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 562 217 979 302">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 562 217 979 302">
+     <span class='ocr_line' id='line_1_2' title="bbox 562 217 979 302; baseline 0.01 -27"><span class='ocrx_word' id='word_1_5' title='bbox 562 217 754 278; x_wconf 79' lang='lat' dir='ltr'><em>schema</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 769 219 979 302; x_wconf 77' lang='lat' dir='ltr'><em>Dioptrae.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1395 117 1455 214">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1395 117 1455 214">
+     <span class='ocr_line' id='line_1_3' title="bbox 1395 117 1455 214; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 1395 117 1455 214; x_wconf 51' lang='lat'><strong>251¹</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 166 307 1435 2363">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 166 307 1435 2363">
+     <span class='ocr_line' id='line_1_4' title="bbox 166 307 1435 2363; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 166 307 1435 2363; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
